@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="action_delete_all_entries">Delete All Inventory!</string>
+    <string name="editor_activity_title_new_inventory">Add an Inventory</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="category_measurement">Price Per Item</string>
+
+    <string name="hint_inventory_name">Name</string>
+    <string name="hint_inventory_price">Price</string>
+    <string name="hint_inventory_quantity">Quantity</string>
+    <string name="hint_inventory_supplierName">Supplier Name</string>
+    <string name="hint_inventory_supplierNum">Supplier Number</string>
+
+    <string name="unit_inventory_price">Rs </string>
+
+    <string name="editor_insert_inventory_successful">inventory saved</string>
+    <string name="editor_insert_inventory_failed">Error with saving inventory</string>
+    <string name="editor_activity_title_edit_inventory">Edit and View Inventory</string>
+    <string name="editor_update_inventory_successful">Inventory updated</string>
+
+    <string name="editor_update_inventory_failed">Error with updating inventory</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding an inventory by touching the red button below.</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="editor_delete_inventory_successful">Inventory deleted</string>
+    <string name="editor_delete_inventory_failed">Error while deleting inventory</string>
+
+    <string name="delete_dialog_msg">Really wanna delete this inventory?</string>
+    <string name="unsaved_changes_dialog_msg">Opps! you forgot to save</string>
+
+    <string name="unknown_breed">Unknown breed</string>
+    <string name="sell_product_failed">Not Available.</string>
+    <string name="buy">Buy</string>
+    <string name="minQuantity">Min Limit Reached</string>
+    <string name="supplierNameReq">Supplier name required</string>
+    <string name="supplierEmailReq">Supplier number required</string>
+    <string name="productPriceReq">Product price required</string>
+    <string name="productNameReq">Product Name required</string>
+    <string name="price_rs">Price:  Rs. </string>
+    <string name="quantity">Quantity:  </string>
+</resources>
